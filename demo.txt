@@ -3,6 +3,5 @@ hellonihao
 =======
 i like you
 welcome to china
-123456
 
 >>>>>>> 3ac1f6c02784b0fcb41f25901c2b46ff005f3cad
